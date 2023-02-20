@@ -151,6 +151,22 @@ https://user-images.githubusercontent.com/14284928/219827225-593d0e73-30a9-4963-
 
 
 8. Una vez creado el Workflow Ejecutarlo haciendo click en el botón Ejecutar
+
+**IMPORTANTE**
+
+```
+Llenar los campos
+Nombre Empresa          NombreEmpresa sin espacios
+Compartment OCID
+User OCID
+Usuario OCI             Ejemplo: /oracleidentitycloudservice/USUARIO
+URL Registry            Sin https://... ejemplo, si el registry es https://scl.ocir.io solo dejar scl.ocir.io
+Token 
+URL Git                 Repositorio clonado por uds, debe ser público
+Nombre Repositorio      Definido por uds
+Namespace Repository
+```
+
 ![image](https://user-images.githubusercontent.com/14284928/219785666-3b417e2f-cb60-4cdc-aeef-9a72a607f1f5.png)
 
 
