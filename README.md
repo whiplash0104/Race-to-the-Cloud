@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/14284928/220199906-8b80092a-e499-4835-
 
 2. Clonar el **siguiente repositorio Git  https://github.com/whiplash0104/Race-to-the-Cloud-app.git**
 
-**NO COPIAR ESTE REPOSITORIO QUE TIENE LA DOCUMENTACIÓN, ES ESTE: https://github.com/whiplash0104/Race-to-the-Cloud-app.git**
+**¡¡¡¡¡¡ NO COPIAR ESTE REPOSITORIO QUE TIENE LA DOCUMENTACIÓN, ES ESTE EL LINK CORRECTO: https://github.com/whiplash0104/Race-to-the-Cloud-app.git  !!!!!!**
 
 
 https://user-images.githubusercontent.com/14284928/220199927-1c5220ba-95b4-4749-a14c-174fe4526a76.mov
