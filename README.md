@@ -32,9 +32,8 @@ https://user-images.githubusercontent.com/14284928/219779574-ad656998-a63d-402a-
 1. Crear Repositorio Git y nombrar como tu empresa
 **EJEMPLO: Si mi empresa se llama Empresa Jovial nombrar el nuevo repositorio git como empresajovial**
 
-https://user-images.githubusercontent.com/14284928/217976649-b8c72a52-9ed4-4757-a568-ea3580ccecd7.mov
 
-
+https://user-images.githubusercontent.com/14284928/220199906-8b80092a-e499-4835-8cce-e50c853be836.mov
 
 
 
@@ -43,10 +42,17 @@ https://user-images.githubusercontent.com/14284928/217976649-b8c72a52-9ed4-4757-
 **NO COPIAR ESTE REPOSITORIO QUE TIENE LA DOCUMENTACIÓN, ES ESTE: https://github.com/whiplash0104/Race-to-the-Cloud-app.git**
 
 
+https://user-images.githubusercontent.com/14284928/220199927-1c5220ba-95b4-4749-a14c-174fe4526a76.mov
 
 
+2.1 Para validar que el repositorio fue clonado de forma correcta, una vez que finalice el proceso, entrar y dentro deberían tener 3 archivos:
+- Dockerfile
+- main.py
+- requirements.txt
 
+Si estos archivos no están se clonó un repositorio distinto y errado.
 
+![image](https://user-images.githubusercontent.com/14284928/220200117-1a4061ce-2303-47af-9f5e-7e1de3537aa5.png)
 
 
 3. Crear compartment llamado **RaceToCloud**
