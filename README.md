@@ -29,7 +29,8 @@ https://user-images.githubusercontent.com/14284928/219779574-ad656998-a63d-402a-
 
 
 
-1. Crear Repositorio Git
+1. Crear Repositorio Git y nombrar como tu empresa
+**EJEMPLO: Si mi empresa se llama Empresa Jovial nombrar el nuevo repositorio git como empresajovial**
 
 https://user-images.githubusercontent.com/14284928/217976649-b8c72a52-9ed4-4757-a568-ea3580ccecd7.mov
 
@@ -39,8 +40,10 @@ https://user-images.githubusercontent.com/14284928/217976649-b8c72a52-9ed4-4757-
 
 2. Clonar el **siguiente repositorio Git  https://github.com/whiplash0104/Race-to-the-Cloud-app.git**
 
+**NO COPIAR ESTE REPOSITORIO QUE TIENE LA DOCUMENTACIÓN, ES ESTE: https://github.com/whiplash0104/Race-to-the-Cloud-app.git**
 
-https://user-images.githubusercontent.com/14284928/217976766-5c5407ea-f329-499f-acd2-8d8b02d82e07.mov
+
+
 
 
 
