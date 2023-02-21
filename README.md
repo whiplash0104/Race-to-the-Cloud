@@ -199,10 +199,10 @@ https://user-images.githubusercontent.com/14284928/219827446-639a602f-6729-456b-
 10. Una vez validado el funcionamiento de la instancia, dentro de planillas editar el Workflow de eliminación y de la misma forma que en el punto 7, crear el workflow
 Usar el siguiente orden:
 
-  1.  06 - Elimina Container Instance NOMBREEMPRESA 
-  2.  07 - Elimina Registry NOMBREEMPRESA
-  3.  08 - Elimina VCN NOMBREEMPRESA
-  4.  09 - Elimina ADB NOMBREEMPRESA
+  06 - Elimina Container Instance NOMBREEMPRESA 
+  07 - Elimina Registry NOMBREEMPRESA
+  08 - Elimina VCN NOMBREEMPRESA
+  09 - Elimina ADB NOMBREEMPRESA
 
 
 
