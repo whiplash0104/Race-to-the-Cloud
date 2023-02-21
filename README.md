@@ -200,8 +200,11 @@ https://user-images.githubusercontent.com/14284928/219827446-639a602f-6729-456b-
 Usar el siguiente orden:
 
   06 - Elimina Container Instance NOMBREEMPRESA 
+  
   07 - Elimina Registry NOMBREEMPRESA
+  
   08 - Elimina VCN NOMBREEMPRESA
+  
   09 - Elimina ADB NOMBREEMPRESA
 
 
