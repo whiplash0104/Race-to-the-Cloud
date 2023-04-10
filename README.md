@@ -62,7 +62,8 @@ Menu > Identity & Security > Compartmente > New Compartment
 ```
 
 
-https://user-images.githubusercontent.com/14284928/217977014-8c324c4f-0c7b-4781-8e6b-de335c80605d.mov
+
+https://user-images.githubusercontent.com/14284928/230921546-09804de4-b051-46eb-998e-0adf7823952a.mov
 
 
 
