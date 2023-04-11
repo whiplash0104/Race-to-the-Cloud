@@ -226,7 +226,7 @@ URL: https://150.136.98.96
 
 |USAURIO | CLAVE |
 | --- | --- |
-|agroindustrialparamonga|	|ansible2023|
+|agroindustrialparamonga|ansible2023|
 |ajegroup	|ansible2023|
 |americamovilperus	|ansible2023|
 |canvia	|ansible2023|
@@ -256,4 +256,39 @@ URL: https://150.136.98.96
 |peru04	|ansible2023|
 |peru05	|ansible2023|
 
+
+https://150.136.232.31
+|USAURIO | CLAVE |
+| --- | --- |
+|kyndrylperu	|ansible2023|
+|laureate	|ansible2023|
+|manpowergroup	|ansible2023|
+|manufacturassanisidro	|ansible2023|
+|nisirasystems	|ansible2023|
+|nuvolaitsac	|ansible2023|
+|panamericansilver	|ansible2023|
+|qlever	|ansible2023|
+|senati	|ansible2023|
+|smv	|ansible2023|
+|tivitperu	|ansible2023|
+|transportescruzdelsur	|ansible2023|
+|umayuq	|ansible2023|
+|universidadandinadelcusco	|ansible2023|
+|universidadcontinental	|ansible2023|
+|universidaddeingyt	|ansible2023|
+|universidadnorbertwiener	|ansible2023|
+|universidadricardopalma	|ansible2023|
+|utp	|ansible2023|
+|valmersystems	|ansible2023|
+|viru	|ansible2023|
+|grupotsi	|ansible2023|
+|mibanco	|ansible2023|
+|novatronics	|ansible2023|
+|superintendenciadelmercado	|ansible2023|
+|universidadtecnologicadelperu	|ansible2023|
+|peru06	|ansible2023|
+|peru07	|ansible2023|
+|peru08	|ansible2023|
+|peru09	|ansible2023|
+|peru10	|ansible2023|
 
