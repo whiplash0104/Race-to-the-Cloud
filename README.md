@@ -224,64 +224,36 @@ https://user-images.githubusercontent.com/14284928/219827500-38c9a17e-f6f4-4026-
 ## ACCESOS ##
 URL: https://150.136.98.96
 
-agroindustrialparamonga     ansible2023
-
-ajegroup	                  ansible2023
-
-americamovilperus	          ansible2023
-
-canvia                    	ansible2023
-
-cencosud	                  ansible2023
-
-cientifica		              ansible2023
-
-clarope		                  ansible2023
-
-cloudinformationsolution	  ansible2023
-
-comsatelperusac           	ansible2023
-
-conectaretail             	ansible2023
-
-cooperativadeahorro	        ansible2023
-
-corporacioncervesur       	ansible2023
-
-credicorp	                  ansible2023
-
-credicorpcapital	          ansible2023
-
-dataminingsolutions	        ansible2023
-
-evol	                      ansible2023
-
-financieraefectiva	        ansible2023
-
-financieraoh	              ansible2023
-
-globalbusinesssolutions	    ansible2023
-
-globalsoftwaretradingsac	  ansible2023
-
-incalpaca                 	ansible2023
-
-institutoparalacalidad	    ansible2023
-
-itconsultores	              ansible2023
-
-komatsumitsui	              ansible2023
-
-peru01	                    ansible2023
-
-peru02	                    ansible2023
-
-peru03	                    ansible2023
-
-peru04	                    ansible2023
-
-peru05	                    ansible2023
-
-
+|USAURIO | CLAVE |
+| --- | --- |
+|agroindustrialparamonga|	|ansible2023|
+|ajegroup	|ansible2023|
+|americamovilperus	|ansible2023|
+|canvia	|ansible2023|
+|cencosud	|ansible2023|
+|cientifica	|ansible2023|
+|clarope	|ansible2023|
+|cloudinformationsolution	|ansible2023|
+|comsatelperusac	|ansible2023|
+|conectaretail	|ansible2023|
+|cooperativadeahorro	|ansible2023|
+|corporacioncervesur	|ansible2023|
+|credicorp	|ansible2023|
+|credicorpcapital	|ansible2023|
+|dataminingsolutions	|ansible2023|
+|evol	|ansible2023|
+|financieraefectiva	|ansible2023|
+|financieraoh	|ansible2023|
+|globalbusinesssolutions	|ansible2023|
+|globalsoftwaretradingsac	|ansible2023|
+|incalpaca	|ansible2023|
+|institutoparalacalidad	|ansible2023|
+|itconsultores	|ansible2023|
+|komatsumitsui	|ansible2023|
+|peru01	|ansible2023|
+|peru02	|ansible2023|
+|peru03	|ansible2023|
+|peru04	|ansible2023|
+|peru05	|ansible2023|
 
 
