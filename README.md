@@ -226,69 +226,48 @@ URL: https://150.136.98.96
 
 |USAURIO | CLAVE |
 | --- | --- |
-|agroindustrialparamonga|ansible2023|
-|ajegroup	|ansible2023|
-|americamovilperus	|ansible2023|
-|canvia	|ansible2023|
-|cencosud	|ansible2023|
-|cientifica	|ansible2023|
-|clarope	|ansible2023|
-|cloudinformationsolution	|ansible2023|
-|comsatelperusac	|ansible2023|
-|conectaretail	|ansible2023|
-|cooperativadeahorro	|ansible2023|
-|corporacioncervesur	|ansible2023|
-|credicorp	|ansible2023|
-|credicorpcapital	|ansible2023|
-|dataminingsolutions	|ansible2023|
-|evol	|ansible2023|
-|financieraefectiva	|ansible2023|
-|financieraoh	|ansible2023|
-|globalbusinesssolutions	|ansible2023|
-|globalsoftwaretradingsac	|ansible2023|
-|incalpaca	|ansible2023|
-|institutoparalacalidad	|ansible2023|
-|itconsultores	|ansible2023|
-|komatsumitsui	|ansible2023|
-|peru01	|ansible2023|
-|peru02	|ansible2023|
-|peru03	|ansible2023|
-|peru04	|ansible2023|
-|peru05	|ansible2023|
+|	agea	|	ansible2023	|
+|	arcor	|	ansible2023	|
+|	brainshock	|	ansible2023	|
+|	centurysystems	|	ansible2023	|
+|	companiamega	|	ansible2023	|
+|	digitalexpress	|	ansible2023	|
+|	directv	|	ansible2023	|
+|	disprofarma	|	ansible2023	|
+|	dxc	|	ansible2023	|
+|	expertaart	|	ansible2023	|
+|	expertaseguros	|	ansible2023	|
+|	fortalein	|	ansible2023	|
+|	fundaciontabacal	|	ansible2023	|
+|	gdn	|	ansible2023	|
+|	gestoswebsrl	|	ansible2023	|
+|	hcisa	|	ansible2023	|
+|	hms	|	ansible2023	|
+|	itgsoftware	|	ansible2023	|
+|	itspakc	|	ansible2023	|
+|	jotafisa	|	ansible2023	|
 
 
 https://150.136.232.31
 |USAURIO | CLAVE |
 | --- | --- |
-|kyndrylperu	|ansible2023|
-|laureate	|ansible2023|
-|manpowergroup	|ansible2023|
-|manufacturassanisidro	|ansible2023|
-|nisirasystems	|ansible2023|
-|nuvolaitsac	|ansible2023|
-|panamericansilver	|ansible2023|
-|qlever	|ansible2023|
-|senati	|ansible2023|
-|smv	|ansible2023|
-|tivitperu	|ansible2023|
-|transportescruzdelsur	|ansible2023|
-|umayuq	|ansible2023|
-|universidadandinadelcusco	|ansible2023|
-|universidadcontinental	|ansible2023|
-|universidaddeingyt	|ansible2023|
-|universidadnorbertwiener	|ansible2023|
-|universidadricardopalma	|ansible2023|
-|utp	|ansible2023|
-|valmersystems	|ansible2023|
-|viru	|ansible2023|
-|grupotsi	|ansible2023|
-|mibanco	|ansible2023|
-|novatronics	|ansible2023|
-|superintendenciadelmercado	|ansible2023|
-|universidadtecnologicadelperu	|ansible2023|
-|peru06	|ansible2023|
-|peru07	|ansible2023|
-|peru08	|ansible2023|
-|peru09	|ansible2023|
-|peru10	|ansible2023|
+|	lifeseguros	|	ansible2023	|
+|	moxit	|	ansible2023	|
+|	municipiodelamatanza	|	ansible2023	|
+|	mvasa	|	ansible2023	|
+|	provinciaart	|	ansible2023	|
+|	qbit	|	ansible2023	|
+|	santamonica	|	ansible2023	|
+|	seaboard	|	ansible2023	|
+|	sistemascriticos	|	ansible2023	|
+|	tata	|	ansible2023	|
+|	telecentro	|	ansible2023	|
+|	torneosycompetencias	|	ansible2023	|
+|	universidadcatolicadecordoba	|	ansible2023	|
+|	veritransa	|	ansible2023	|
+|	vitcodes	|	ansible2023	|
+|	westernunion	|	ansible2023	|
+|	worldsys	|	ansible2023	|
+|	worldsyssa	|	ansible2023	|
+
 
