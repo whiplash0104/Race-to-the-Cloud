@@ -236,7 +236,6 @@ URL: https://150.136.98.96
 |	disprofarma	|	ansible2023	|
 |	dxc	|	ansible2023	|
 |	expertaart	|	ansible2023	|
-|	expertaseguros	|	ansible2023	|
 |	fortalein	|	ansible2023	|
 |	fundaciontabacal	|	ansible2023	|
 |	gdn	|	ansible2023	|
