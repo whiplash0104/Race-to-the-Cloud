@@ -245,9 +245,12 @@ URL: https://150.136.98.96
 |	itgsoftware	|	ansible2023	|
 |	itspakc	|	ansible2023	|
 |	jotafisa	|	ansible2023	|
+|	argentina01	|	ansible2023	|
+|	argentina02	|	ansible2023	|
+|	argentina03	|	ansible2023	|
+|	argentina04	|	ansible2023	|
 
-
-https://150.136.232.31
+URL: https://150.136.232.31
 |USAURIO | CLAVE |
 | --- | --- |
 |	lifeseguros	|	ansible2023	|
@@ -267,6 +270,7 @@ https://150.136.232.31
 |	vitcodes	|	ansible2023	|
 |	westernunion	|	ansible2023	|
 |	worldsys	|	ansible2023	|
-
-
-
+|	argentina05	|	ansible2023	|
+|	argentina06	|	ansible2023	|
+|	argentina07	|	ansible2023	|
+|	argentina08	|	ansible2023	|
