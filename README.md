@@ -9,10 +9,10 @@
 
 - Clonar repositorio Github
 - Configurar OLAM
-- Crear Credenciales en OLAM
-- Crear Proyecto en OLAM
-- Crear Templates en OLAM
-- Crear Workflow en OLAM
+  - Crear Credenciales en OLAM
+  - Configurar Workflow en OLAM
+  
+### ¿Qué hará OLAM automáticamente?
 - Crear Instancia de autonomous Database
 - Crear un VCN con Subnet y Security List
 - Crear Container Registry 
