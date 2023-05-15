@@ -226,52 +226,34 @@ URL: https://150.136.98.96
 
 |USAURIO | CLAVE |
 | --- | --- |
-|	agea	|	ansible2023	|
-|	arcor	|	ansible2023	|
-|	brainshock	|	ansible2023	|
-|	centurysystems	|	ansible2023	|
-|	companiamega	|	ansible2023	|
-|	digitalexpress	|	ansible2023	|
-|	disprofarma	|	ansible2023	|
-|	dxc	|	ansible2023	|
-|	fortalein	|	ansible2023	|
-|	gdn	|	ansible2023	|
-|	hcisa	|	ansible2023	|
-|	hms	|	ansible2023	|
-|	itgsoftware	|	ansible2023	|
-|	itspakc	|	ansible2023	|
-|	jotafisa	|	ansible2023	|
-|	moxit	|	ansible2023	|
-|	municipiodelamatanza	|	ansible2023	|
-|	mvasa	|	ansible2023	|
-|	provinciaart	|	ansible2023	|
-|	seaboard	|	ansible2023	|
-|	sistemascriticos	|	ansible2023	|
-|	torneosycompetencias	|	ansible2023	|
-|	veritransa	|	ansible2023	|
-|	vitcodes	|	ansible2023	|
-|	westernunion	|	ansible2023	|
+| cajmetro | ansible2023 |	
+| celmediafidelizacion | ansible2023 |
+| cicsa | ansible2023 |
+| falabella | ansible2023 |
+| forus | ansible2023 |
+| grupodtg | ansible2023 |
+| hackmetrix | ansible2023 |
+| mauiandsons | ansible2023 |
+| chile01 | ansible2023 |
+| chile02 | ansible2023 |
+| chile03 | ansible2023 |
+| chile04 | ansible2023 |
 
 
 URL: https://150.136.232.31
 |USAURIO | CLAVE |
 | --- | --- |
-|	fundaciontabacal	|	ansible2023	|
-|	tata	|	ansible2023	|
-|	ucatolicadecordoba	|	ansible2023	|
-|	directv	|	ansible2023	|
-|	gestoswebsrl	|	ansible2023	|
-|	worldsys	|	ansible2023	|
-|	santamonica	|	ansible2023	|
-|	qbit	|	ansible2023	|
-|	lifeseguros	|	ansible2023	|
-|	telecentro	|	ansible2023	|
-|	expertaart	|	ansible2023	|
-|	argentina01	|	ansible2023	|
-|	argentina02	|	ansible2023	|
-|	argentina03	|	ansible2023	|
-|	argentina04	|	ansible2023	|
-|	argentina05	|	ansible2023	|
-|	argentina06	|	ansible2023	|
-|	argentina07	|	ansible2023	|
-
+| mundocall | ansible2023 |	
+| petroquim | ansible2023 |
+| segurossura | ansible2023 |
+| telefonicachile | ansible2023 |
+| tisal | ansible2023 |
+| tutenlabs | ansible2023 |
+| upayments | ansible2023 |
+| vmetrixinternacionalspa | ansible2023 |
+| chile05 | ansible2023 |
+| chile06 | ansible2023 |
+| chile07 | ansible2023 |
+| chile08 | ansible2023 |
+| chile09 | ansible2023 |
+| chile10 | ansible2023 |
