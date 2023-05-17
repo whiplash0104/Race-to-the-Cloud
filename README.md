@@ -226,14 +226,14 @@ URL: https://150.136.98.96
 
 |USAURIO | CLAVE |
 | --- | --- |
-| cajmetro | ansible2023 |	
-| celmediafidelizacion | ansible2023 |
-| cicsa | ansible2023 |
-| falabella | ansible2023 |
-| forus | ansible2023 |
-| grupodtg | ansible2023 |
-| hackmetrix | ansible2023 |
-| mauiandsons | ansible2023 |
+| amicar | ansible2023 |
+| bancodechile | ansible2023 |
+| santanderchile | ansible2023 |
+| caja | ansible2023 |
+| canal13 | ansible2023 |
+| consejodedefensa | ansible2023 |
+| falabella02 | ansible2023 |
+| indisa | ansible2023 |
 | chile01 | ansible2023 |
 | chile02 | ansible2023 |
 | chile03 | ansible2023 |
@@ -243,14 +243,14 @@ URL: https://150.136.98.96
 URL: https://150.136.232.31
 |USAURIO | CLAVE |
 | --- | --- |
-| mundocall | ansible2023 |	
-| petroquim | ansible2023 |
-| segurossura | ansible2023 |
-| telefonicachile | ansible2023 |
-| tisal | ansible2023 |
-| tutenlabs | ansible2023 |
-| upayments | ansible2023 |
-| vmetrixinternacionalspa | ansible2023 |
+| inmotion | ansible2023 |
+| kyndryl | ansible2023 |
+| redbanc | ansible2023 |
+| serviciosaludohiggins | ansible2023 |
+| correspondencia | ansible2023 |
+| skyairline | ansible2023 |
+| superintendencia | ansible2023 |
+| suseso | ansible2023 |
 | chile05 | ansible2023 |
 | chile06 | ansible2023 |
 | chile07 | ansible2023 |
