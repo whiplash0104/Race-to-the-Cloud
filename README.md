@@ -1,5 +1,43 @@
 ## Despliegue Automatizado Utilizando Oracle Linux Automation Platform (OLAM) 
 
+## ##
+
+## ACCESOS ##
+URL: https://150.136.98.96
+
+|USAURIO | CLAVE |
+| --- | --- |
+| amicar | ansible2023 |
+| arkavia | ansible2023 |
+| asistenciaatiempospa | ansible2023 |
+| autofin | ansible2023 |
+| automatiza | ansible2023 |
+| bancodechile03 | ansible2023 |
+| camaradecomercio | ansible2023 |
+| ccaflosheroes | ansible2023 |
+| cclh | ansible2023 |
+
+
+URL: https://150.136.232.31
+|USAURIO | CLAVE |
+| --- | --- |
+| ccs | ansible2023 |
+| femsa | ansible2023 |
+| ingresa | ansible2023 |
+| padsystemsconsulting | ansible2023 |
+| previred | ansible2023 |
+| qbitsolutionsspa | ansible2023 |
+| reale | ansible2023 |
+| temporis | ansible2023 |
+| tisal | ansible2023 |
+| chile05 | ansible2023 |
+| chile06 | ansible2023 |
+| chile07 | ansible2023 |
+| chile08 | ansible2023 |
+| chile09 | ansible2023 |
+| chile10 | ansible2023 |
+
+
 ### Requerimientos:
 
 - Cuenta de Oracle Cloud Infrastructure(test gratuito https://www.oracle.com/cloud/free/)
@@ -170,7 +208,7 @@ Nombre Empresa          NombreEmpresa sin espacios
 Compartment OCID
 User OCID
 Usuario OCI             Ejemplo: /oracleidentitycloudservice/USUARIO
-URL Registry            Sin https://... ejemplo, si el registry es https://scl.ocir.io solo dejar scl.ocir.io
+URL Registry            Sin https://... si estás usando la región de Chile, el registry es scl.ocir.io 
 Token 
 URL Git                 Repositorio clonado por uds, debe ser público
 Nombre Repositorio      Definido por uds
@@ -195,6 +233,7 @@ abrir una nueva pestaña en el navegador, pegar la ip y asignar el puerto 8080
 https://user-images.githubusercontent.com/14284928/219827446-639a602f-6729-456b-bc4a-e627b312d0ce.mov
 
 
+**Aquí nos avisas que completaste y nos muestrs la app funcionando** 
 
 
 10. Una vez validado el funcionamiento de la instancia, dentro de planillas editar el Workflow de eliminación y de la misma forma que en el punto 7, crear el workflow
@@ -219,41 +258,4 @@ https://user-images.githubusercontent.com/14284928/219827454-8aab05ea-753e-4e95-
 
 https://user-images.githubusercontent.com/14284928/219827500-38c9a17e-f6f4-4026-aa59-889c1c7df781.mov
 
-## ##
 
-## ACCESOS ##
-URL: https://150.136.98.96
-
-|USAURIO | CLAVE |
-| --- | --- |
-| amicar | ansible2023 |
-| bancodechile | ansible2023 |
-| santanderchile | ansible2023 |
-| caja | ansible2023 |
-| canal13 | ansible2023 |
-| consejodedefensa | ansible2023 |
-| falabella02 | ansible2023 |
-| indisa | ansible2023 |
-| chile01 | ansible2023 |
-| chile02 | ansible2023 |
-| chile03 | ansible2023 |
-| chile04 | ansible2023 |
-
-
-URL: https://150.136.232.31
-|USAURIO | CLAVE |
-| --- | --- |
-| inmotion | ansible2023 |
-| kyndryl | ansible2023 |
-| redbanc | ansible2023 |
-| serviciosaludohiggins | ansible2023 |
-| correspondencia | ansible2023 |
-| skyairline | ansible2023 |
-| superintendencia | ansible2023 |
-| suseso | ansible2023 |
-| chile05 | ansible2023 |
-| chile06 | ansible2023 |
-| chile07 | ansible2023 |
-| chile08 | ansible2023 |
-| chile09 | ansible2023 |
-| chile10 | ansible2023 |
